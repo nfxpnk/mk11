@@ -1,0 +1,88 @@
+@charset "UTF-8";
+body {
+  background: #fff; }
+
+.main {
+  width: 700px;
+  margin: 0 auto; }
+  .main h3,
+  .main h4 {
+    padding: 0;
+    margin: 0 0 10px; }
+
+.keys {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0 0 10px; }
+
+.combination-with-text .keys * {
+  display: inline-block;
+  border: 1px solid #000;
+  padding: 4px;
+  margin: 0 4px;
+  border-radius: 4px; }
+
+.combination-with-text .keys .key-left::before {
+  content: 'Back'; }
+
+.combination-with-text .keys .key-right::before {
+  content: 'Forward'; }
+
+.combination-with-text .keys .key-down::before {
+  content: 'Down'; }
+
+.combination-with-text .keys .key-up::before {
+  content: 'Up'; }
+
+.combination-with-text .keys .key-a::before {
+  content: 'Front Kick'; }
+
+.combination-with-text .keys .key-b::before {
+  content: 'Front Punch'; }
+
+.combination-with-text .keys .key-x::before {
+  content: 'Back Punch'; }
+
+.combination-with-text .keys .key-y::before {
+  content: 'Block'; }
+
+.combination-with-buttons .keys * {
+  display: inline-block;
+  border: 1px solid #000;
+  border-radius: 50%;
+  min-width: 20px;
+  padding: 5px;
+  margin: 0 5px;
+  height: 20px;
+  text-align: center;
+  line-height: 20px;
+  font-weight: 700;
+  overflow: hidden; }
+
+.combination-with-buttons .keys .key-left::before {
+  content: '←'; }
+
+.combination-with-buttons .keys .key-right::before {
+  content: '→'; }
+
+.combination-with-buttons .keys .key-up::before {
+  content: '↑'; }
+
+.combination-with-buttons .keys .key-down::before {
+  content: '↓'; }
+
+.combination-with-buttons .keys .key-x::before {
+  content: 'X'; }
+
+.combination-with-buttons .keys .key-y::before {
+  content: 'Y'; }
+
+.combination-with-buttons .keys .key-a::before {
+  content: 'A'; }
+
+.combination-with-buttons .keys .key-b::before {
+  content: 'B'; }
+
+.combination-with-buttons .keys .key-block::before {
+  content: 'BL'; }

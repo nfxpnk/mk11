@@ -1,0 +1,103 @@
+body {
+	background: #fff;
+}
+.main {
+	width: 700px;
+	margin: 0 auto;
+	h3,
+	h4 {
+		padding: 0;
+		margin: 0 0 10px;
+	}
+}
+
+.keys {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	margin: 0 0 10px;
+}
+
+.combination-with-text .keys {
+	* {
+		display: inline-block;
+		border: 1px solid #000;
+		padding: 4px;
+		margin: 0 4px;
+		border-radius: 4px;
+	}
+	.key-left::before {
+		content: 'Back';
+	}
+	.key-right::before {
+		content: 'Forward';
+	}
+	.key-down::before {
+		content: 'Down';
+	}
+	.key-up::before {
+		content: 'Up';
+	}
+	.key-a::before {
+		content: 'Front Kick';
+	}
+	.key-b::before {
+		content: 'Front Punch';
+	}
+	.key-x::before {
+		content: 'Back Punch';
+	}
+	.key-y::before {
+		content: 'Block';
+	}
+}
+
+.combination-with-buttons .keys {
+	* {
+		display: inline-block;
+		border: 1px solid #000;
+		border-radius: 50%;
+		min-width: 20px;
+		padding: 5px;
+		margin: 0 5px;
+		height: 20px;
+		text-align: center;
+		line-height: 20px;
+		font-weight: 700;
+		overflow: hidden;
+	}
+	.key-left::before {
+		content: '←';
+	}
+
+	.key-right::before {
+		content: '→';
+	}
+
+	.key-up::before {
+		content: '↑';
+	}
+	
+	.key-down::before {
+		content: '↓';
+	}
+	
+	.key-x::before {
+		content: 'X';
+	}
+
+	.key-y::before {
+		content: 'Y';
+	}
+	
+	.key-a::before {
+		content: 'A';
+	}
+
+	.key-b::before {
+		content: 'B';
+	}
+	.key-block::before {
+		content: 'BL';
+	}
+}

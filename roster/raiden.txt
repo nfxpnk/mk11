@@ -1,0 +1,6 @@
+=Moves1=
+Name: l,r,a
+Name: l,r,b
+=Moves2=
+Name: l,r,a,b,a+a
+=Moves3=
