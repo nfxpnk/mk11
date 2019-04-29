@@ -1,8 +1,9 @@
 body {
 	background: #fff;
+	font-family: 'Roboto', sans-serif;
 }
 .main {
-	width: 700px;
+	width: 400px;
 	margin: 0 auto;
 	h3,
 	h4 {
@@ -11,11 +12,19 @@ body {
 	}
 }
 
+.line {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	//background: grey;
+	border-bottom: 1px solid #fff;
+	padding: 5px;
+}
+
 .keys {
 	display: flex;
 	justify-content: flex-start;
 	align-items: center;
-	margin: 0 0 10px;
 }
 
 .combination-with-text .keys {
@@ -65,6 +74,7 @@ body {
 		line-height: 20px;
 		font-weight: 700;
 		overflow: hidden;
+		background: #fff;
 	}
 	.key-left::before {
 		content: '←';

@@ -19,23 +19,35 @@ function compileEjsTemplate(template) {
     for (var i in files) {
 
         roster[files[i]] = [];
-        //console.log(files[i]);
 
         let content = fs.readFileSync('./roster/' + files[i], 'utf8');
         content = content.split('\r\n');
 
         for (let key in content) {
-            roster[files[i]][key] = {};
             let line = content[key];
 
             if (line == '') continue;
+
+            if(line.indexOf('//') == 0) {
+                continue;
+            }
+
+            if(line.indexOf('!') == 0) {
+                line = line.replace(/!/gimu, '');
+                roster[files[i]].push('<h2>' + line + '</h2>');
+                continue;
+            }
+
             if(line.indexOf('=') == 0) {
-                roster[files[i]][key] = '<h2>' + line + '</h2>';
+                line = line.replace(/=/gimu, '');
+                roster[files[i]].push('<h3>' + line + '</h3>');
                 continue;
             }
 
             
             let parts = line.split(':');
+            
+            parts[1] = parts[1].replace(/or/gimu, '0');
 
             parts[1] = parts[1].replace(/u/gimu, '1');
             parts[1] = parts[1].replace(/d/gimu, '2');
@@ -58,15 +70,12 @@ function compileEjsTemplate(template) {
             parts[1] = parts[1].replace(/7/gimu, '<div class="key-x"></div>');
             parts[1] = parts[1].replace(/8/gimu, '<div class="key-y"></div>');
 
-            console.log(parts[1]);
 
-            roster[files[i]][key] = '<div class="keys">' + parts[1] + '</div>';
+            roster[files[i]].push('<div class="line"><div class="move">' +  parts[0] + '</div>' + '<div class="keys">' + parts[1] + '</div></div>');
         }
     }
-    console.log(roster);
 
-    return templateFn({ roster: roster });
-    //return templateFn({ roster: roster['raiden.txt'] });
+    return templateFn({roster: roster});
 }
 
 // use res.render to load up an ejs view file

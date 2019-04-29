@@ -1,6 +1,24 @@
-=Moves1=
-Name: l,r,a
-Name: l,r,b
-=Moves2=
-Name: l,r,a,b,a+a
-=Moves3=
+!Raiden
+//=Basic=
+//Heavy Palm: x
+//God Fist: l + x
+//=Moves2=
+//Name: l,r,a,b,a+a
+=Kombos=
+God's Might: x,y
+Downpour: x,y,x
+Elder Fury: l + x,y
+Power Discharge: l + x,y, x + a
+Distant Thunder: l + x,b
+Divine Power: r + x, x
+Sudden Enegry: r +x, x, y
+Overload: y,x
+Flash Strom: y,b
+Immortal Strikes: y,b,a
+Wrath Of God: a, y
+Deadly Storm: a,y,x
+The Calm: l+a,x
+Might of Mordulus: l+a, x, y+b
+Massive Destruction: r+a, y
+//=Kombos User=
+//User: l+x, y, d, l, y

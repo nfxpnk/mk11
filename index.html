@@ -4,13 +4,15 @@
         <button id="change">change</button>
         <div id="combinations" class="combination-with-buttons">
 
-
 		
-<% roster.forEach(function(pers){ %>
+<% for (let key in roster) { %>
+	<% for (let key2 in roster[key]) { %>
 
-<%- pers %>
+	<%- roster[key][key2] %>
 
-<% }) %>
+	<% } %>
+<% } %>
+
 
 </div>
 </div>

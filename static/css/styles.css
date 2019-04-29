@@ -1,20 +1,27 @@
 @charset "UTF-8";
 body {
-  background: #fff; }
+  background: #fff;
+  font-family: 'Roboto', sans-serif; }
 
 .main {
-  width: 700px;
+  width: 400px;
   margin: 0 auto; }
   .main h3,
   .main h4 {
     padding: 0;
     margin: 0 0 10px; }
 
+.line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #fff;
+  padding: 5px; }
+
 .keys {
   display: flex;
   justify-content: flex-start;
-  align-items: center;
-  margin: 0 0 10px; }
+  align-items: center; }
 
 .combination-with-text .keys * {
   display: inline-block;
@@ -58,7 +65,8 @@ body {
   text-align: center;
   line-height: 20px;
   font-weight: 700;
-  overflow: hidden; }
+  overflow: hidden;
+  background: #fff; }
 
 .combination-with-buttons .keys .key-left::before {
   content: '←'; }
