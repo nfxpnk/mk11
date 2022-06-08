@@ -5,8 +5,7 @@
   "dependencies": {
     "ejs": "^2.6.1",
     "express": "^4.16.4",
-    "livereload": "^0.7.0",
-    "node-sass": "^4.12.0"
+    "livereload": "^0.7.0"
   },
   "devDependencies": {},
   "scripts": {
