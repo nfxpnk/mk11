@@ -24,7 +24,7 @@ Spiked Cross: J
 Low Stab: S + J
 
 Straight Shank: S+D + J
-Requires: Baraka Barrage (*)
+>Requires: Baraka Barrage (*)
 
 Warrior Strike: I
 
@@ -33,7 +33,7 @@ Lunging Blades: A + I
 Blade Swipe: D + I
 
 Rising Blades: S + I
-KRUSHING BLOW: Triggers if this ATTACK KOUNTERS or PUNISHES a HIGH ATTACK.
+>KRUSHING BLOW: Triggers if this ATTACK KOUNTERS or PUNISHES a HIGH ATTACK.
 
 Hinge Kick: K
 
@@ -42,7 +42,7 @@ Foot Stomp: A + K
 Low Poke: S + K
 
 Low Shank: S+D + K
-Requires: Baraka Barrage (*)
+>Requires: Baraka Barrage (*)
 
 Big Leg: L
 
@@ -57,7 +57,7 @@ Side Kick: S + L
 Hangry Jab: J
 
 Sinister Shank: S + J
-Requires: Baraka Barrage (*)
+>Requires: Baraka Barrage (*)
 
 Sinister Slice: I
 
@@ -84,10 +84,10 @@ Karbrac Stab: W + K
 
 ### Throws
 Toward Throw: SPACE + D or  D + J + K
-KRUSHING BLOW: Triggers if opponent failed THROW ESCAPE during the previous THROW.
+>KRUSHING BLOW: Triggers if opponent failed THROW ESCAPE during the previous THROW.
 
 Back Throw: SPACE or J + K
-KRUSHING BLOW: Triggers if opponent failed THROW ESCAPE during the previous THROW.
+>KRUSHING BLOW: Triggers if opponent failed THROW ESCAPE during the previous THROW.
 
 
 ### Roll Escapes
@@ -109,7 +109,7 @@ Mangled: J, J, I
 Bloodthirsty: J, I
 
 Outworld Bash: J, I, I
-KRUSHING BLOW: Triggers if this KOMBO ATTACK is a PUNISH.
+>KRUSHING BLOW: Triggers if this KOMBO ATTACK is a PUNISH.
 
 Splintered: I, J + K
 
@@ -122,7 +122,7 @@ Tarkatan Rush: A + K, J
 Cutting Loose: A + K, J, I
 
 Doom Kicks: D + L, L
-KRUSHING BLOW: Triggers if this KOMBO ATTACK is a KOUNTER or PUNISH.
+>KRUSHING BLOW: Triggers if this KOMBO ATTACK is a KOUNTER or PUNISH.
 
 
 
@@ -132,13 +132,13 @@ Blade Spark: S A J
 Amplify: ;
 
 Blade Charge: A D I
-Requires: Blade Charge (*)
+>Requires: Blade Charge (*)
 
 Throw Away: A
-Requires: Blade Charge (*)
+>Requires: Blade Charge (*)
 
 Blood Lunge: A D I
-Requires: Blood Lunge (**)
+>Requires: Blood Lunge (**)
 
 Chop Chop: S A K
 
@@ -149,42 +149,42 @@ Amplify: ;
 Further Amplify: ;
 
 Spine Burst: S A K
-Requires: Spine Burst (*)
+>Requires: Spine Burst (*)
 
 Leg Kabob: A D L
-Requires: Leg Kabob (*)
+>Requires: Leg Kabob (*)
 
 Amplify: ;
-Requires: Leg Kabob (*)
+>Requires: Leg Kabob (*)
 
 Throw Away: ;
-Requires: Leg Kabob (*)
+>Requires: Leg Kabob (*)
 
 Gutted: A D L
-Requires: Gutted (**)
+>Requires: Gutted (**)
 
 Amplify: ;
-Requires: Gutted (**)
+>Requires: Gutted (**)
 
 Baraka-Serker: A D K
-Requires: Baraka-Serker (*)
+>Requires: Baraka-Serker (*)
 
 Amplify: ;
-Requires: Baraka-Serker (*)
+>Requires: Baraka-Serker (*)
 
 War Banner: S A L
 
 War Banner Bash: S A L
-Requires: War Banner Bash (*)
+>Requires: War Banner Bash (*)
 
 Staked: S A L
-Requires: Staked (*)
+>Requires: Staked (*)
 
 War Banner Charge: A D K
-Requires: War Banner Charge (*)
+>Requires: War Banner Charge (*)
 
 Cancel: S S
-Requires: War Banner Charge (*)
+>Requires: War Banner Charge (*)
 
 
 ### Fatal Blow
@@ -200,20 +200,20 @@ Food For Thought (Close): A S A I
 Rock, Paper, Baraka (Close): A D A K
 
 Stage Fatality (Close): D D S L
-Can only be performed on certain stages.
+>Can only be performed on certain stages.
 
 Mercy (Mid): U + S S S
 
 
 ### Friendship
 Nailed it (Mid): A D S S J
-KOMPETITIVE REQUIREMENTS: No Blocking during the final round of a Kompetitive Match. Friendships can be performed anytime outside of Kompetitive Matches.
+>KOMPETITIVE REQUIREMENTS: No Blocking during the final round of a Kompetitive Match. Friendships can be performed anytime outside of Kompetitive Matches.
 
 
 ### Brutalities
 The Klassic: S + I
-DO NOT block an attack during the final round.<br>&bull; Must hold [T].<br>&bull; Final hit must come from an Uppercut [D]+[T].
+>DO NOT block an attack during the final round.<br>&bull; Must hold [T].<br>&bull; Final hit must come from an Uppercut [D]+[T].
 
 Nom Nom: D + SPACE
-Press [d],[d],[d] during Toward Throw; Final hit must come from Toward Throw.
+>Press [d],[d],[d] during Toward Throw; Final hit must come from Toward Throw.
 
