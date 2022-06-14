@@ -463,7 +463,7 @@
         {
             "group": "Basic Attacks",
             "subGroup": "Air Escape",
-            "name": "(Air",
+            "name": "(Air) Breakaway",
             "move": "D+}"
         },
         {
@@ -1015,21 +1015,21 @@
             "subGroup": "Friendship",
             "name": "Nailed it (Mid)",
             "move": "LRDDS",
-            "title": "KOMPETITIVE REQUIREMENTS:<br>&bull; No Blocking during the final round of a Kompetitive Match.<br>&bull; Friendships can be performed anytime outside of Kompetitive Matches."
+            "title": "KOMPETITIVE REQUIREMENTS: No Blocking during the final round of a Kompetitive Match. Friendships can be performed anytime outside of Kompetitive Matches."
         },
         {
             "group": "Finishers",
             "subGroup": "Brutalities",
             "name": "The Klassic",
             "move": "D+T",
-            "title": "&bull; DO NOT block an attack during the final round.<br>&bull; Must hold [T].<br>&bull; Final hit must come from an Uppercut [D]+[T]."
+            "title": "DO NOT block an attack during the final round.<br>&bull; Must hold [T].<br>&bull; Final hit must come from an Uppercut [D]+[T]."
         },
         {
             "group": "Finishers",
             "subGroup": "Brutalities",
             "name": "Nom Nom",
             "move": "R+[",
-            "title": "&bull; Press [d],[d],[d] during Toward Throw<br>&bull; Final hit must come from Toward Throw."
+            "title": "Press [d],[d],[d] during Toward Throw; Final hit must come from Toward Throw."
         }
     ]
 }
