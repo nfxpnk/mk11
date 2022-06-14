@@ -1,5 +1,5 @@
 # Baraka
-* [Basic Attacks](#basicattacks)
+* [Basic Attacks](#basic-attacks)
 	* [Jumping Attacks](#jumpingattacks)
 	* [Hop Attacks](#hopattacks)
 	* [Getup Attacks](#getupattacks)
@@ -7,13 +7,15 @@
 	* [Throws](#throws)
 	* [Roll Escapes](#rollescapes)
 	* [Air Escape](#airescape)
-* [Kombo Attacks](#komboattacks)
-* [Special Moves](#specialmoves)
+* [Kombo Attacks](#kombo-attacks)
+* [Special Moves](#special-moves)
 	* [Fatal Blow](#fatalblow)
 * [Finishers](#finishers)
 	* [Fatalities](#fatalities)
 	* [Friendship](#friendship)
 	* [Brutalities](#brutalities)
+
+
 
 
 ## Basic Attacks
