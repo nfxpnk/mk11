@@ -1,5 +1,19 @@
 # Baraka
-
+* [Basic Attacks](#basicattacks)
+	* [Jumping Attacks](#jumpingattacks)
+	* [Hop Attacks](#hopattacks)
+	* [Getup Attacks](#getupattacks)
+	* [Flawless Block Attacks](#flawlessblockattacks)
+	* [Throws](#throws)
+	* [Roll Escapes](#rollescapes)
+	* [Air Escape](#airescape)
+* [Kombo Attacks](#komboattacks)
+* [Special Moves](#specialmoves)
+	* [Fatal Blow](#fatalblow)
+* [Finishers](#finishers)
+	* [Fatalities](#fatalities)
+	* [Friendship](#friendship)
+	* [Brutalities](#brutalities)
 
 
 ## Basic Attacks
@@ -8,7 +22,7 @@ Spiked Cross: J
 Low Stab: S + J
 
 Straight Shank: S+D + J
-Requires: Baraka Barrage
+Requires: Baraka Barrage (*)
 
 Warrior Strike: I
 
@@ -26,7 +40,7 @@ Foot Stomp: A + K
 Low Poke: S + K
 
 Low Shank: S+D + K
-Requires: Baraka Barrage
+Requires: Baraka Barrage (*)
 
 Big Leg: L
 
@@ -41,7 +55,7 @@ Side Kick: S + L
 Hangry Jab: J
 
 Sinister Shank: S + J
-Requires: Baraka Barrage
+Requires: Baraka Barrage (*)
 
 Sinister Slice: I
 
@@ -116,13 +130,13 @@ Blade Spark: S A J
 Amplify: ;
 
 Blade Charge: A D I
-Requires: Blade Charge
+Requires: Blade Charge (*)
 
 Throw Away: A
-Requires: Blade Charge
+Requires: Blade Charge (*)
 
 Blood Lunge: A D I
-Requires: Blood Lunge
+Requires: Blood Lunge (**)
 
 Chop Chop: S A K
 
@@ -133,42 +147,42 @@ Amplify: ;
 Further Amplify: ;
 
 Spine Burst: S A K
-Requires: Spine Burst
+Requires: Spine Burst (*)
 
 Leg Kabob: A D L
-Requires: Leg Kabob
+Requires: Leg Kabob (*)
 
 Amplify: ;
-Requires: Leg Kabob
+Requires: Leg Kabob (*)
 
 Throw Away: ;
-Requires: Leg Kabob
+Requires: Leg Kabob (*)
 
 Gutted: A D L
-Requires: Gutted
+Requires: Gutted (**)
 
 Amplify: ;
-Requires: Gutted
+Requires: Gutted (**)
 
 Baraka-Serker: A D K
-Requires: Baraka-Serker
+Requires: Baraka-Serker (*)
 
 Amplify: ;
-Requires: Baraka-Serker
+Requires: Baraka-Serker (*)
 
 War Banner: S A L
 
 War Banner Bash: S A L
-Requires: War Banner Bash
+Requires: War Banner Bash (*)
 
 Staked: S A L
-Requires: Staked
+Requires: Staked (*)
 
 War Banner Charge: A D K
-Requires: War Banner Charge
+Requires: War Banner Charge (*)
 
 Cancel: S S
-Requires: War Banner Charge
+Requires: War Banner Charge (*)
 
 
 ### Fatal Blow
