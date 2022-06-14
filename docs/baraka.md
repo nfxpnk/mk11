@@ -1,10 +1,4 @@
-<style>
-	.mk11-moves {
-		display: flex;
-		align-items: center;
-		gap: 10px;
-	}
-</style>
+
 
 # Baraka
 * [Basic Attacks](#basic-attacks)
@@ -225,3 +219,11 @@
 <span class="mk11-moves">**Nom Nom:** ![d key](./images/pc/d.svg) + ![space key](./images/pc/space.svg)</span>
 >Press [d],[d],[d] during Toward Throw; Final hit must come from Toward Throw.
 
+
+<style>
+	.mk11-moves {
+		display: flex;
+		align-items: center;
+		gap: 10px;
+	}
+</style>
