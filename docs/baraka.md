@@ -1,11 +1,3 @@
-<style>
-	.mk11-moves {
-		display: flex;
-		align-items: center;
-		gap: 10px;
-	}
-</style>
-
 # Baraka
 * [Basic Attacks](#basic-attacks)
 	* [Jumping Attacks](#jumping-attacks)
