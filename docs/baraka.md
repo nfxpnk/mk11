@@ -4,7 +4,9 @@
 		align-items: center;
 		gap: 10px;
 	}
-</style># Baraka
+</style>
+
+# Baraka
 * [Basic Attacks](#basic-attacks)
 	* [Jumping Attacks](#jumping-attacks)
 	* [Hop Attacks](#hop-attacks)
