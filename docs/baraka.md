@@ -19,9 +19,8 @@
 
 
 ## Basic Attacks
-Spiked Cross: J
-
-Low Stab: S + J
+* Spiked Cross: J
+* Low Stab: S + J
 
 Straight Shank: S+D + J
 >Requires: Baraka Barrage (*)
