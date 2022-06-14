@@ -601,9 +601,6 @@
             "move": "R+C,S+X"
         },
         {
-            "subGroup": "Advanced kombos"
-        },
-        {
             "group": "Special Moves",
             "subGroup": "",
             "name": "Buzzsaw",

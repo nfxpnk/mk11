@@ -585,9 +585,6 @@
             "move": "R+C,X"
         },
         {
-            "subGroup": "Advanced kombos"
-        },
-        {
             "group": "Special Moves",
             "subGroup": "",
             "name": "Bloodshot",
