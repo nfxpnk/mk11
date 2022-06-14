@@ -23,7 +23,7 @@
 ## Basic Attacks
 <span class="mk11-moves">**Spiked Cross:** ![j key](./images/pc/j.svg)</span>
 
-<span class="mk11-moves">**Low Stab:** ![s key](./images/pc/s.svg) + ![j key](./images/pc/j.svg)</span>
+<span style="display: flex; align-items: center; gap: 10px;" class="mk11-moves">**Low Stab:** ![s key](./images/pc/s.svg) + ![j key](./images/pc/j.svg)</span>
 
 <span class="mk11-moves">**Straight Shank:** ![s_plus_d key](./images/pc/s_plus_d.svg) + ![j key](./images/pc/j.svg)</span>
 >Requires: Baraka Barrage (*)
