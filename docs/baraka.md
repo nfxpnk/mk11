@@ -19,201 +19,201 @@
 
 
 ## Basic Attacks
-Spiked Cross: J
+**Spiked Cross:** <kbd>J</kbd>
 
-Low Stab: S + J
+**Low Stab:** <kbd>S</kbd> + <kbd>J</kbd>
 
-Straight Shank: S+D + J
+**Straight Shank:** <kbd>S+D</kbd> + <kbd>J</kbd>
 >Requires: Baraka Barrage (*)
 
-Warrior Strike: I
+**Warrior Strike:** <kbd>I</kbd>
 
-Lunging Blades: A + I
+**Lunging Blades:** <kbd>A</kbd> + <kbd>I</kbd>
 
-Blade Swipe: D + I
+**Blade Swipe:** <kbd>D</kbd> + <kbd>I</kbd>
 
-Rising Blades: S + I
+**Rising Blades:** <kbd>S</kbd> + <kbd>I</kbd>
 >KRUSHING BLOW: Triggers if this ATTACK KOUNTERS or PUNISHES a HIGH ATTACK.
 
-Hinge Kick: K
+**Hinge Kick:** <kbd>K</kbd>
 
-Foot Stomp: A + K
+**Foot Stomp:** <kbd>A</kbd> + <kbd>K</kbd>
 
-Low Poke: S + K
+**Low Poke:** <kbd>S</kbd> + <kbd>K</kbd>
 
-Low Shank: S+D + K
+**Low Shank:** <kbd>S+D</kbd> + <kbd>K</kbd>
 >Requires: Baraka Barrage (*)
 
-Big Leg: L
+**Big Leg:** <kbd>L</kbd>
 
-Leg Chop: A + L
+**Leg Chop:** <kbd>A</kbd> + <kbd>L</kbd>
 
-Knee Lunge: D + L
+**Knee Lunge:** <kbd>D</kbd> + <kbd>L</kbd>
 
-Side Kick: S + L
+**Side Kick:** <kbd>S</kbd> + <kbd>L</kbd>
 
 
 ### Jumping Attacks
-Hangry Jab: J
+**Hangry Jab:** <kbd>J</kbd>
 
-Sinister Shank: S + J
+**Sinister Shank:** <kbd>S</kbd> + <kbd>J</kbd>
 >Requires: Baraka Barrage (*)
 
-Sinister Slice: I
+**Sinister Slice:** <kbd>I</kbd>
 
-Dropkick: K or L
+**Dropkick:** <kbd>K</kbd> or <kbd>L</kbd>
 
 
 ### Hop Attacks
-Bladed Doom: W, J or W, I
+**Bladed Doom:** <kbd>W</kbd>, <kbd>J</kbd> or <kbd>W</kbd>, <kbd>I</kbd>
 
-Karbrac Kick: W, K or W, L
+**Karbrac Kick:** <kbd>W</kbd>, <kbd>K</kbd> or <kbd>W</kbd>, <kbd>L</kbd>
 
 
 ### Getup Attacks
-Fatal Strike: W + I
+**Fatal Strike:** <kbd>W</kbd> + <kbd>I</kbd>
 
-Karbrac Stab: W + K
+**Karbrac Stab:** <kbd>W</kbd> + <kbd>K</kbd>
 
 
 ### Flawless Block Attacks
-Fatal Strike: W + I
+**Fatal Strike:** <kbd>W</kbd> + <kbd>I</kbd>
 
-Karbrac Stab: W + K
+**Karbrac Stab:** <kbd>W</kbd> + <kbd>K</kbd>
 
 
 ### Throws
-Toward Throw: SPACE + D or  D + J + K
+**Toward Throw:** <kbd>SPACE</kbd> + <kbd>D</kbd> or <kbd></kbd> <kbd>D</kbd> + <kbd>J</kbd> + <kbd>K</kbd>
 >KRUSHING BLOW: Triggers if opponent failed THROW ESCAPE during the previous THROW.
 
-Back Throw: SPACE or J + K
+**Back Throw:** <kbd>SPACE</kbd> or <kbd>J</kbd> + <kbd>K</kbd>
 >KRUSHING BLOW: Triggers if opponent failed THROW ESCAPE during the previous THROW.
 
 
 ### Roll Escapes
-Forward Roll Escape: D + U
+**Forward Roll Escape:** <kbd>D</kbd> + <kbd>U</kbd>
 
-Away Roll Escape: A + U
+**Away Roll Escape:** <kbd>A</kbd> + <kbd>U</kbd>
 
 
 ### Air Escape
-(Air) Breakaway: S + O
+**(Air) Breakaway:** <kbd>S</kbd> + <kbd>O</kbd>
 
 
 
 ## Kombo Attacks
-Easy Kill: J, J
+**Easy Kill:** <kbd>J</kbd>, <kbd>J</kbd>
 
-Mangled: J, J, I
+**Mangled:** <kbd>J</kbd>, <kbd>J</kbd>, <kbd>I</kbd>
 
-Bloodthirsty: J, I
+**Bloodthirsty:** <kbd>J</kbd>, <kbd>I</kbd>
 
-Outworld Bash: J, I, I
+**Outworld Bash:** <kbd>J</kbd>, <kbd>I</kbd>, <kbd>I</kbd>
 >KRUSHING BLOW: Triggers if this KOMBO ATTACK is a PUNISH.
 
-Splintered: I, J + K
+**Splintered:** <kbd>I</kbd>, <kbd>J</kbd> + <kbd>K</kbd>
 
-Painful Swipes: D + I, J
+**Painful Swipes:** <kbd>D</kbd> + <kbd>I</kbd>, <kbd>J</kbd>
 
-Bloody Mess: D + I, J, I
+**Bloody Mess:** <kbd>D</kbd> + <kbd>I</kbd>, <kbd>J</kbd>, <kbd>I</kbd>
 
-Tarkatan Rush: A + K, J
+**Tarkatan Rush:** <kbd>A</kbd> + <kbd>K</kbd>, <kbd>J</kbd>
 
-Cutting Loose: A + K, J, I
+**Cutting Loose:** <kbd>A</kbd> + <kbd>K</kbd>, <kbd>J</kbd>, <kbd>I</kbd>
 
-Doom Kicks: D + L, L
+**Doom Kicks:** <kbd>D</kbd> + <kbd>L</kbd>, <kbd>L</kbd>
 >KRUSHING BLOW: Triggers if this KOMBO ATTACK is a KOUNTER or PUNISH.
 
 
 
 ## Special Moves
-Blade Spark: S A J
+**Blade Spark:** <kbd>S</kbd> <kbd>A</kbd> <kbd>J</kbd>
 
-Amplify: ;
+**Amplify:** <kbd>;</kbd>
 
-Blade Charge: A D I
+**Blade Charge:** <kbd>A</kbd> <kbd>D</kbd> <kbd>I</kbd>
 >Requires: Blade Charge (*)
 
-Throw Away: A
+**Throw Away:** <kbd>A</kbd>
 >Requires: Blade Charge (*)
 
-Blood Lunge: A D I
+**Blood Lunge:** <kbd>A</kbd> <kbd>D</kbd> <kbd>I</kbd>
 >Requires: Blood Lunge (**)
 
-Chop Chop: S A K
+**Chop Chop:** <kbd>S</kbd> <kbd>A</kbd> <kbd>K</kbd>
 
-Extend: K
+**Extend:** <kbd>K</kbd>
 
-Amplify: ;
+**Amplify:** <kbd>;</kbd>
 
-Further Amplify: ;
+**Further Amplify:** <kbd>;</kbd>
 
-Spine Burst: S A K
+**Spine Burst:** <kbd>S</kbd> <kbd>A</kbd> <kbd>K</kbd>
 >Requires: Spine Burst (*)
 
-Leg Kabob: A D L
+**Leg Kabob:** <kbd>A</kbd> <kbd>D</kbd> <kbd>L</kbd>
 >Requires: Leg Kabob (*)
 
-Amplify: ;
+**Amplify:** <kbd>;</kbd>
 >Requires: Leg Kabob (*)
 
-Throw Away: ;
+**Throw Away:** <kbd>;</kbd>
 >Requires: Leg Kabob (*)
 
-Gutted: A D L
+**Gutted:** <kbd>A</kbd> <kbd>D</kbd> <kbd>L</kbd>
 >Requires: Gutted (**)
 
-Amplify: ;
+**Amplify:** <kbd>;</kbd>
 >Requires: Gutted (**)
 
-Baraka-Serker: A D K
+**Baraka-Serker:** <kbd>A</kbd> <kbd>D</kbd> <kbd>K</kbd>
 >Requires: Baraka-Serker (*)
 
-Amplify: ;
+**Amplify:** <kbd>;</kbd>
 >Requires: Baraka-Serker (*)
 
-War Banner: S A L
+**War Banner:** <kbd>S</kbd> <kbd>A</kbd> <kbd>L</kbd>
 
-War Banner Bash: S A L
+**War Banner Bash:** <kbd>S</kbd> <kbd>A</kbd> <kbd>L</kbd>
 >Requires: War Banner Bash (*)
 
-Staked: S A L
+**Staked:** <kbd>S</kbd> <kbd>A</kbd> <kbd>L</kbd>
 >Requires: Staked (*)
 
-War Banner Charge: A D K
+**War Banner Charge:** <kbd>A</kbd> <kbd>D</kbd> <kbd>K</kbd>
 >Requires: War Banner Charge (*)
 
-Cancel: S S
+**Cancel:** <kbd>S</kbd> <kbd>S</kbd>
 >Requires: War Banner Charge (*)
 
 
 ### Fatal Blow
-Skewered: U + O
+**Skewered:** <kbd>U</kbd> + <kbd>O</kbd>
 
 
 
 ## Finishers
 
 ### Fatalities
-Food For Thought (Close): A S A I
+**Food For Thought (Close):** <kbd>A</kbd> <kbd>S</kbd> <kbd>A</kbd> <kbd>I</kbd>
 
-Rock, Paper, Baraka (Close): A D A K
+**Rock, Paper, Baraka (Close):** <kbd>A</kbd> <kbd>D</kbd> <kbd>A</kbd> <kbd>K</kbd>
 
-Stage Fatality (Close): D D S L
+**Stage Fatality (Close):** <kbd>D</kbd> <kbd>D</kbd> <kbd>S</kbd> <kbd>L</kbd>
 >Can only be performed on certain stages.
 
-Mercy (Mid): U + S S S
+**Mercy (Mid):** <kbd>U</kbd> + <kbd>S</kbd> <kbd>S</kbd> <kbd>S</kbd>
 
 
 ### Friendship
-Nailed it (Mid): A D S S J
+**Nailed it (Mid):** <kbd>A</kbd> <kbd>D</kbd> <kbd>S</kbd> <kbd>S</kbd> <kbd>J</kbd>
 >KOMPETITIVE REQUIREMENTS: No Blocking during the final round of a Kompetitive Match. Friendships can be performed anytime outside of Kompetitive Matches.
 
 
 ### Brutalities
-The Klassic: S + I
+**The Klassic:** <kbd>S</kbd> + <kbd>I</kbd>
 >DO NOT block an attack during the final round.<br>&bull; Must hold [T].<br>&bull; Final hit must come from an Uppercut [D]+[T].
 
-Nom Nom: D + SPACE
+**Nom Nom:** <kbd>D</kbd> + <kbd>SPACE</kbd>
 >Press [d],[d],[d] during Toward Throw; Final hit must come from Toward Throw.
 
