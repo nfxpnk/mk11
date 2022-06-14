@@ -25,139 +25,139 @@
 
 
 ## Basic Attacks
-<span class="mk11-moves">**Spiked Cross:** ![J key](./images/pc/J.svg)</span>
+<span class="mk11-moves">**Spiked Cross:** ![j key](./images/pc/j.svg)</span>
 
-<span class="mk11-moves">**Low Stab:** ![S key](./images/pc/S.svg) + ![J key](./images/pc/J.svg)</span>
+<span class="mk11-moves">**Low Stab:** ![s key](./images/pc/s.svg) + ![j key](./images/pc/j.svg)</span>
 
-<span class="mk11-moves">**Straight Shank:** ![S_plus_D key](./images/pc/S_plus_D.svg) + ![J key](./images/pc/J.svg)</span>
+<span class="mk11-moves">**Straight Shank:** ![s_plus_d key](./images/pc/s_plus_d.svg) + ![j key](./images/pc/j.svg)</span>
 >Requires: Baraka Barrage (*)
 
-<span class="mk11-moves">**Warrior Strike:** ![I key](./images/pc/I.svg)</span>
+<span class="mk11-moves">**Warrior Strike:** ![i key](./images/pc/i.svg)</span>
 
-<span class="mk11-moves">**Lunging Blades:** ![A key](./images/pc/A.svg) + ![I key](./images/pc/I.svg)</span>
+<span class="mk11-moves">**Lunging Blades:** ![a key](./images/pc/a.svg) + ![i key](./images/pc/i.svg)</span>
 
-<span class="mk11-moves">**Blade Swipe:** ![D key](./images/pc/D.svg) + ![I key](./images/pc/I.svg)</span>
+<span class="mk11-moves">**Blade Swipe:** ![d key](./images/pc/d.svg) + ![i key](./images/pc/i.svg)</span>
 
-<span class="mk11-moves">**Rising Blades:** ![S key](./images/pc/S.svg) + ![I key](./images/pc/I.svg)</span>
+<span class="mk11-moves">**Rising Blades:** ![s key](./images/pc/s.svg) + ![i key](./images/pc/i.svg)</span>
 >KRUSHING BLOW: Triggers if this ATTACK KOUNTERS or PUNISHES a HIGH ATTACK.
 
-<span class="mk11-moves">**Hinge Kick:** ![K key](./images/pc/K.svg)</span>
+<span class="mk11-moves">**Hinge Kick:** ![k key](./images/pc/k.svg)</span>
 
-<span class="mk11-moves">**Foot Stomp:** ![A key](./images/pc/A.svg) + ![K key](./images/pc/K.svg)</span>
+<span class="mk11-moves">**Foot Stomp:** ![a key](./images/pc/a.svg) + ![k key](./images/pc/k.svg)</span>
 
-<span class="mk11-moves">**Low Poke:** ![S key](./images/pc/S.svg) + ![K key](./images/pc/K.svg)</span>
+<span class="mk11-moves">**Low Poke:** ![s key](./images/pc/s.svg) + ![k key](./images/pc/k.svg)</span>
 
-<span class="mk11-moves">**Low Shank:** ![S_plus_D key](./images/pc/S_plus_D.svg) + ![K key](./images/pc/K.svg)</span>
+<span class="mk11-moves">**Low Shank:** ![s_plus_d key](./images/pc/s_plus_d.svg) + ![k key](./images/pc/k.svg)</span>
 >Requires: Baraka Barrage (*)
 
-<span class="mk11-moves">**Big Leg:** ![L key](./images/pc/L.svg)</span>
+<span class="mk11-moves">**Big Leg:** ![l key](./images/pc/l.svg)</span>
 
-<span class="mk11-moves">**Leg Chop:** ![A key](./images/pc/A.svg) + ![L key](./images/pc/L.svg)</span>
+<span class="mk11-moves">**Leg Chop:** ![a key](./images/pc/a.svg) + ![l key](./images/pc/l.svg)</span>
 
-<span class="mk11-moves">**Knee Lunge:** ![D key](./images/pc/D.svg) + ![L key](./images/pc/L.svg)</span>
+<span class="mk11-moves">**Knee Lunge:** ![d key](./images/pc/d.svg) + ![l key](./images/pc/l.svg)</span>
 
-<span class="mk11-moves">**Side Kick:** ![S key](./images/pc/S.svg) + ![L key](./images/pc/L.svg)</span>
+<span class="mk11-moves">**Side Kick:** ![s key](./images/pc/s.svg) + ![l key](./images/pc/l.svg)</span>
 
 
 ### Jumping Attacks
-<span class="mk11-moves">**Hangry Jab:** ![J key](./images/pc/J.svg)</span>
+<span class="mk11-moves">**Hangry Jab:** ![j key](./images/pc/j.svg)</span>
 
-<span class="mk11-moves">**Sinister Shank:** ![S key](./images/pc/S.svg) + ![J key](./images/pc/J.svg)</span>
+<span class="mk11-moves">**Sinister Shank:** ![s key](./images/pc/s.svg) + ![j key](./images/pc/j.svg)</span>
 >Requires: Baraka Barrage (*)
 
-<span class="mk11-moves">**Sinister Slice:** ![I key](./images/pc/I.svg)</span>
+<span class="mk11-moves">**Sinister Slice:** ![i key](./images/pc/i.svg)</span>
 
-<span class="mk11-moves">**Dropkick:** ![K key](./images/pc/K.svg) or ![L key](./images/pc/L.svg)</span>
+<span class="mk11-moves">**Dropkick:** ![k key](./images/pc/k.svg) or ![l key](./images/pc/l.svg)</span>
 
 
 ### Hop Attacks
-<span class="mk11-moves">**Bladed Doom:** ![W key](./images/pc/W.svg), ![J key](./images/pc/J.svg) or ![W key](./images/pc/W.svg), ![I key](./images/pc/I.svg)</span>
+<span class="mk11-moves">**Bladed Doom:** ![w key](./images/pc/w.svg), ![j key](./images/pc/j.svg) or ![w key](./images/pc/w.svg), ![i key](./images/pc/i.svg)</span>
 
-<span class="mk11-moves">**Karbrac Kick:** ![W key](./images/pc/W.svg), ![K key](./images/pc/K.svg) or ![W key](./images/pc/W.svg), ![L key](./images/pc/L.svg)</span>
+<span class="mk11-moves">**Karbrac Kick:** ![w key](./images/pc/w.svg), ![k key](./images/pc/k.svg) or ![w key](./images/pc/w.svg), ![l key](./images/pc/l.svg)</span>
 
 
 ### Getup Attacks
-<span class="mk11-moves">**Fatal Strike:** ![W key](./images/pc/W.svg) + ![I key](./images/pc/I.svg)</span>
+<span class="mk11-moves">**Fatal Strike:** ![w key](./images/pc/w.svg) + ![i key](./images/pc/i.svg)</span>
 
-<span class="mk11-moves">**Karbrac Stab:** ![W key](./images/pc/W.svg) + ![K key](./images/pc/K.svg)</span>
+<span class="mk11-moves">**Karbrac Stab:** ![w key](./images/pc/w.svg) + ![k key](./images/pc/k.svg)</span>
 
 
 ### Flawless Block Attacks
-<span class="mk11-moves">**Fatal Strike:** ![W key](./images/pc/W.svg) + ![I key](./images/pc/I.svg)</span>
+<span class="mk11-moves">**Fatal Strike:** ![w key](./images/pc/w.svg) + ![i key](./images/pc/i.svg)</span>
 
-<span class="mk11-moves">**Karbrac Stab:** ![W key](./images/pc/W.svg) + ![K key](./images/pc/K.svg)</span>
+<span class="mk11-moves">**Karbrac Stab:** ![w key](./images/pc/w.svg) + ![k key](./images/pc/k.svg)</span>
 
 
 ### Throws
-<span class="mk11-moves">**Toward Throw:** ![SPACE key](./images/pc/SPACE.svg) + ![D key](./images/pc/D.svg) or  ![D key](./images/pc/D.svg) + ![J key](./images/pc/J.svg) + ![K key](./images/pc/K.svg)</span>
+<span class="mk11-moves">**Toward Throw:** ![space key](./images/pc/space.svg) + ![d key](./images/pc/d.svg) or  ![d key](./images/pc/d.svg) + ![j key](./images/pc/j.svg) + ![k key](./images/pc/k.svg)</span>
 >KRUSHING BLOW: Triggers if opponent failed THROW ESCAPE during the previous THROW.
 
-<span class="mk11-moves">**Back Throw:** ![SPACE key](./images/pc/SPACE.svg) or ![J key](./images/pc/J.svg) + ![K key](./images/pc/K.svg)</span>
+<span class="mk11-moves">**Back Throw:** ![space key](./images/pc/space.svg) or ![j key](./images/pc/j.svg) + ![k key](./images/pc/k.svg)</span>
 >KRUSHING BLOW: Triggers if opponent failed THROW ESCAPE during the previous THROW.
 
 
 ### Roll Escapes
-<span class="mk11-moves">**Forward Roll Escape:** ![D key](./images/pc/D.svg) + ![U key](./images/pc/U.svg)</span>
+<span class="mk11-moves">**Forward Roll Escape:** ![d key](./images/pc/d.svg) + ![u key](./images/pc/u.svg)</span>
 
-<span class="mk11-moves">**Away Roll Escape:** ![A key](./images/pc/A.svg) + ![U key](./images/pc/U.svg)</span>
+<span class="mk11-moves">**Away Roll Escape:** ![a key](./images/pc/a.svg) + ![u key](./images/pc/u.svg)</span>
 
 
 ### Air Escape
-<span class="mk11-moves">**(Air) Breakaway:** ![S key](./images/pc/S.svg) + ![O key](./images/pc/O.svg)</span>
+<span class="mk11-moves">**(Air) Breakaway:** ![s key](./images/pc/s.svg) + ![o key](./images/pc/o.svg)</span>
 
 
 
 ## Kombo Attacks
-<span class="mk11-moves">**Easy Kill:** ![J key](./images/pc/J.svg), ![J key](./images/pc/J.svg)</span>
+<span class="mk11-moves">**Easy Kill:** ![j key](./images/pc/j.svg), ![j key](./images/pc/j.svg)</span>
 
-<span class="mk11-moves">**Mangled:** ![J key](./images/pc/J.svg), ![J key](./images/pc/J.svg), ![I key](./images/pc/I.svg)</span>
+<span class="mk11-moves">**Mangled:** ![j key](./images/pc/j.svg), ![j key](./images/pc/j.svg), ![i key](./images/pc/i.svg)</span>
 
-<span class="mk11-moves">**Bloodthirsty:** ![J key](./images/pc/J.svg), ![I key](./images/pc/I.svg)</span>
+<span class="mk11-moves">**Bloodthirsty:** ![j key](./images/pc/j.svg), ![i key](./images/pc/i.svg)</span>
 
-<span class="mk11-moves">**Outworld Bash:** ![J key](./images/pc/J.svg), ![I key](./images/pc/I.svg), ![I key](./images/pc/I.svg)</span>
+<span class="mk11-moves">**Outworld Bash:** ![j key](./images/pc/j.svg), ![i key](./images/pc/i.svg), ![i key](./images/pc/i.svg)</span>
 >KRUSHING BLOW: Triggers if this KOMBO ATTACK is a PUNISH.
 
-<span class="mk11-moves">**Splintered:** ![I key](./images/pc/I.svg), ![J key](./images/pc/J.svg) + ![K key](./images/pc/K.svg)</span>
+<span class="mk11-moves">**Splintered:** ![i key](./images/pc/i.svg), ![j key](./images/pc/j.svg) + ![k key](./images/pc/k.svg)</span>
 
-<span class="mk11-moves">**Painful Swipes:** ![D key](./images/pc/D.svg) + ![I key](./images/pc/I.svg), ![J key](./images/pc/J.svg)</span>
+<span class="mk11-moves">**Painful Swipes:** ![d key](./images/pc/d.svg) + ![i key](./images/pc/i.svg), ![j key](./images/pc/j.svg)</span>
 
-<span class="mk11-moves">**Bloody Mess:** ![D key](./images/pc/D.svg) + ![I key](./images/pc/I.svg), ![J key](./images/pc/J.svg), ![I key](./images/pc/I.svg)</span>
+<span class="mk11-moves">**Bloody Mess:** ![d key](./images/pc/d.svg) + ![i key](./images/pc/i.svg), ![j key](./images/pc/j.svg), ![i key](./images/pc/i.svg)</span>
 
-<span class="mk11-moves">**Tarkatan Rush:** ![A key](./images/pc/A.svg) + ![K key](./images/pc/K.svg), ![J key](./images/pc/J.svg)</span>
+<span class="mk11-moves">**Tarkatan Rush:** ![a key](./images/pc/a.svg) + ![k key](./images/pc/k.svg), ![j key](./images/pc/j.svg)</span>
 
-<span class="mk11-moves">**Cutting Loose:** ![A key](./images/pc/A.svg) + ![K key](./images/pc/K.svg), ![J key](./images/pc/J.svg), ![I key](./images/pc/I.svg)</span>
+<span class="mk11-moves">**Cutting Loose:** ![a key](./images/pc/a.svg) + ![k key](./images/pc/k.svg), ![j key](./images/pc/j.svg), ![i key](./images/pc/i.svg)</span>
 
-<span class="mk11-moves">**Doom Kicks:** ![D key](./images/pc/D.svg) + ![L key](./images/pc/L.svg), ![L key](./images/pc/L.svg)</span>
+<span class="mk11-moves">**Doom Kicks:** ![d key](./images/pc/d.svg) + ![l key](./images/pc/l.svg), ![l key](./images/pc/l.svg)</span>
 >KRUSHING BLOW: Triggers if this KOMBO ATTACK is a KOUNTER or PUNISH.
 
 
 
 ## Special Moves
-<span class="mk11-moves">**Blade Spark:** ![S key](./images/pc/S.svg) ![A key](./images/pc/A.svg) ![J key](./images/pc/J.svg)</span>
+<span class="mk11-moves">**Blade Spark:** ![s key](./images/pc/s.svg) ![a key](./images/pc/a.svg) ![j key](./images/pc/j.svg)</span>
 
 <span class="mk11-moves">**Amplify:** ![semicolon key](./images/pc/semicolon.svg)</span>
 
-<span class="mk11-moves">**Blade Charge:** ![A key](./images/pc/A.svg) ![D key](./images/pc/D.svg) ![I key](./images/pc/I.svg)</span>
+<span class="mk11-moves">**Blade Charge:** ![a key](./images/pc/a.svg) ![d key](./images/pc/d.svg) ![i key](./images/pc/i.svg)</span>
 >Requires: Blade Charge (*)
 
-<span class="mk11-moves">**Throw Away:** ![A key](./images/pc/A.svg)</span>
+<span class="mk11-moves">**Throw Away:** ![a key](./images/pc/a.svg)</span>
 >Requires: Blade Charge (*)
 
-<span class="mk11-moves">**Blood Lunge:** ![A key](./images/pc/A.svg) ![D key](./images/pc/D.svg) ![I key](./images/pc/I.svg)</span>
+<span class="mk11-moves">**Blood Lunge:** ![a key](./images/pc/a.svg) ![d key](./images/pc/d.svg) ![i key](./images/pc/i.svg)</span>
 >Requires: Blood Lunge (**)
 
-<span class="mk11-moves">**Chop Chop:** ![S key](./images/pc/S.svg) ![A key](./images/pc/A.svg) ![K key](./images/pc/K.svg)</span>
+<span class="mk11-moves">**Chop Chop:** ![s key](./images/pc/s.svg) ![a key](./images/pc/a.svg) ![k key](./images/pc/k.svg)</span>
 
-<span class="mk11-moves">**Extend:** ![K key](./images/pc/K.svg)</span>
+<span class="mk11-moves">**Extend:** ![k key](./images/pc/k.svg)</span>
 
 <span class="mk11-moves">**Amplify:** ![semicolon key](./images/pc/semicolon.svg)</span>
 
 <span class="mk11-moves">**Further Amplify:** ![semicolon key](./images/pc/semicolon.svg)</span>
 
-<span class="mk11-moves">**Spine Burst:** ![S key](./images/pc/S.svg) ![A key](./images/pc/A.svg) ![K key](./images/pc/K.svg)</span>
+<span class="mk11-moves">**Spine Burst:** ![s key](./images/pc/s.svg) ![a key](./images/pc/a.svg) ![k key](./images/pc/k.svg)</span>
 >Requires: Spine Burst (*)
 
-<span class="mk11-moves">**Leg Kabob:** ![A key](./images/pc/A.svg) ![D key](./images/pc/D.svg) ![L key](./images/pc/L.svg)</span>
+<span class="mk11-moves">**Leg Kabob:** ![a key](./images/pc/a.svg) ![d key](./images/pc/d.svg) ![l key](./images/pc/l.svg)</span>
 >Requires: Leg Kabob (*)
 
 <span class="mk11-moves">**Amplify:** ![semicolon key](./images/pc/semicolon.svg)</span>
@@ -166,60 +166,60 @@
 <span class="mk11-moves">**Throw Away:** ![semicolon key](./images/pc/semicolon.svg)</span>
 >Requires: Leg Kabob (*)
 
-<span class="mk11-moves">**Gutted:** ![A key](./images/pc/A.svg) ![D key](./images/pc/D.svg) ![L key](./images/pc/L.svg)</span>
+<span class="mk11-moves">**Gutted:** ![a key](./images/pc/a.svg) ![d key](./images/pc/d.svg) ![l key](./images/pc/l.svg)</span>
 >Requires: Gutted (**)
 
 <span class="mk11-moves">**Amplify:** ![semicolon key](./images/pc/semicolon.svg)</span>
 >Requires: Gutted (**)
 
-<span class="mk11-moves">**Baraka-Serker:** ![A key](./images/pc/A.svg) ![D key](./images/pc/D.svg) ![K key](./images/pc/K.svg)</span>
+<span class="mk11-moves">**Baraka-Serker:** ![a key](./images/pc/a.svg) ![d key](./images/pc/d.svg) ![k key](./images/pc/k.svg)</span>
 >Requires: Baraka-Serker (*)
 
 <span class="mk11-moves">**Amplify:** ![semicolon key](./images/pc/semicolon.svg)</span>
 >Requires: Baraka-Serker (*)
 
-<span class="mk11-moves">**War Banner:** ![S key](./images/pc/S.svg) ![A key](./images/pc/A.svg) ![L key](./images/pc/L.svg)</span>
+<span class="mk11-moves">**War Banner:** ![s key](./images/pc/s.svg) ![a key](./images/pc/a.svg) ![l key](./images/pc/l.svg)</span>
 
-<span class="mk11-moves">**War Banner Bash:** ![S key](./images/pc/S.svg) ![A key](./images/pc/A.svg) ![L key](./images/pc/L.svg)</span>
+<span class="mk11-moves">**War Banner Bash:** ![s key](./images/pc/s.svg) ![a key](./images/pc/a.svg) ![l key](./images/pc/l.svg)</span>
 >Requires: War Banner Bash (*)
 
-<span class="mk11-moves">**Staked:** ![S key](./images/pc/S.svg) ![A key](./images/pc/A.svg) ![L key](./images/pc/L.svg)</span>
+<span class="mk11-moves">**Staked:** ![s key](./images/pc/s.svg) ![a key](./images/pc/a.svg) ![l key](./images/pc/l.svg)</span>
 >Requires: Staked (*)
 
-<span class="mk11-moves">**War Banner Charge:** ![A key](./images/pc/A.svg) ![D key](./images/pc/D.svg) ![K key](./images/pc/K.svg)</span>
+<span class="mk11-moves">**War Banner Charge:** ![a key](./images/pc/a.svg) ![d key](./images/pc/d.svg) ![k key](./images/pc/k.svg)</span>
 >Requires: War Banner Charge (*)
 
-<span class="mk11-moves">**Cancel:** ![S key](./images/pc/S.svg) ![S key](./images/pc/S.svg)</span>
+<span class="mk11-moves">**Cancel:** ![s key](./images/pc/s.svg) ![s key](./images/pc/s.svg)</span>
 >Requires: War Banner Charge (*)
 
 
 ### Fatal Blow
-<span class="mk11-moves">**Skewered:** ![U key](./images/pc/U.svg) + ![O key](./images/pc/O.svg)</span>
+<span class="mk11-moves">**Skewered:** ![u key](./images/pc/u.svg) + ![o key](./images/pc/o.svg)</span>
 
 
 
 ## Finishers
 
 ### Fatalities
-<span class="mk11-moves">**Food For Thought (Close):** ![A key](./images/pc/A.svg) ![S key](./images/pc/S.svg) ![A key](./images/pc/A.svg) ![I key](./images/pc/I.svg)</span>
+<span class="mk11-moves">**Food For Thought (Close):** ![a key](./images/pc/a.svg) ![s key](./images/pc/s.svg) ![a key](./images/pc/a.svg) ![i key](./images/pc/i.svg)</span>
 
-<span class="mk11-moves">**Rock, Paper, Baraka (Close):** ![A key](./images/pc/A.svg) ![D key](./images/pc/D.svg) ![A key](./images/pc/A.svg) ![K key](./images/pc/K.svg)</span>
+<span class="mk11-moves">**Rock, Paper, Baraka (Close):** ![a key](./images/pc/a.svg) ![d key](./images/pc/d.svg) ![a key](./images/pc/a.svg) ![k key](./images/pc/k.svg)</span>
 
-<span class="mk11-moves">**Stage Fatality (Close):** ![D key](./images/pc/D.svg) ![D key](./images/pc/D.svg) ![S key](./images/pc/S.svg) ![L key](./images/pc/L.svg)</span>
+<span class="mk11-moves">**Stage Fatality (Close):** ![d key](./images/pc/d.svg) ![d key](./images/pc/d.svg) ![s key](./images/pc/s.svg) ![l key](./images/pc/l.svg)</span>
 >Can only be performed on certain stages.
 
-<span class="mk11-moves">**Mercy (Mid):** ![U key](./images/pc/U.svg) + ![S key](./images/pc/S.svg) ![S key](./images/pc/S.svg) ![S key](./images/pc/S.svg)</span>
+<span class="mk11-moves">**Mercy (Mid):** ![u key](./images/pc/u.svg) + ![s key](./images/pc/s.svg) ![s key](./images/pc/s.svg) ![s key](./images/pc/s.svg)</span>
 
 
 ### Friendship
-<span class="mk11-moves">**Nailed it (Mid):** ![A key](./images/pc/A.svg) ![D key](./images/pc/D.svg) ![S key](./images/pc/S.svg) ![S key](./images/pc/S.svg) ![J key](./images/pc/J.svg)</span>
+<span class="mk11-moves">**Nailed it (Mid):** ![a key](./images/pc/a.svg) ![d key](./images/pc/d.svg) ![s key](./images/pc/s.svg) ![s key](./images/pc/s.svg) ![j key](./images/pc/j.svg)</span>
 >KOMPETITIVE REQUIREMENTS: No Blocking during the final round of a Kompetitive Match. Friendships can be performed anytime outside of Kompetitive Matches.
 
 
 ### Brutalities
-<span class="mk11-moves">**The Klassic:** ![S key](./images/pc/S.svg) + ![I key](./images/pc/I.svg)</span>
+<span class="mk11-moves">**The Klassic:** ![s key](./images/pc/s.svg) + ![i key](./images/pc/i.svg)</span>
 >DO NOT block an attack during the final round.<br>&bull; Must hold [T].<br>&bull; Final hit must come from an Uppercut [D]+[T].
 
-<span class="mk11-moves">**Nom Nom:** ![D key](./images/pc/D.svg) + ![SPACE key](./images/pc/SPACE.svg)</span>
+<span class="mk11-moves">**Nom Nom:** ![d key](./images/pc/d.svg) + ![space key](./images/pc/space.svg)</span>
 >Press [d],[d],[d] during Toward Throw; Final hit must come from Toward Throw.
 
