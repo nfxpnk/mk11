@@ -25,11 +25,11 @@
 
 **Low Stab:** 
 
-![s key](./images/pc/s.svg) ![_plus_ key](./images/pc/_plus_.svg) ![j key](./images/pc/j.svg)
+![s key](./images/pc/s.svg) ![plus key](./images/pc/plus.svg) ![j key](./images/pc/j.svg)
 
 **Straight Shank:** 
 
-![s_plus_d key](./images/pc/s_plus_d.svg) ![_plus_ key](./images/pc/_plus_.svg) ![j key](./images/pc/j.svg)
+![splusd key](./images/pc/splusd.svg) ![plus key](./images/pc/plus.svg) ![j key](./images/pc/j.svg)
 >Requires: Baraka Barrage (*)
 
 **Warrior Strike:** 
@@ -38,15 +38,15 @@
 
 **Lunging Blades:** 
 
-![a key](./images/pc/a.svg) ![_plus_ key](./images/pc/_plus_.svg) ![i key](./images/pc/i.svg)
+![a key](./images/pc/a.svg) ![plus key](./images/pc/plus.svg) ![i key](./images/pc/i.svg)
 
 **Blade Swipe:** 
 
-![d key](./images/pc/d.svg) ![_plus_ key](./images/pc/_plus_.svg) ![i key](./images/pc/i.svg)
+![d key](./images/pc/d.svg) ![plus key](./images/pc/plus.svg) ![i key](./images/pc/i.svg)
 
 **Rising Blades:** 
 
-![s key](./images/pc/s.svg) ![_plus_ key](./images/pc/_plus_.svg) ![i key](./images/pc/i.svg)
+![s key](./images/pc/s.svg) ![plus key](./images/pc/plus.svg) ![i key](./images/pc/i.svg)
 >KRUSHING BLOW: Triggers if this ATTACK KOUNTERS or PUNISHES a HIGH ATTACK.
 
 **Hinge Kick:** 
@@ -55,15 +55,15 @@
 
 **Foot Stomp:** 
 
-![a key](./images/pc/a.svg) ![_plus_ key](./images/pc/_plus_.svg) ![k key](./images/pc/k.svg)
+![a key](./images/pc/a.svg) ![plus key](./images/pc/plus.svg) ![k key](./images/pc/k.svg)
 
 **Low Poke:** 
 
-![s key](./images/pc/s.svg) ![_plus_ key](./images/pc/_plus_.svg) ![k key](./images/pc/k.svg)
+![s key](./images/pc/s.svg) ![plus key](./images/pc/plus.svg) ![k key](./images/pc/k.svg)
 
 **Low Shank:** 
 
-![s_plus_d key](./images/pc/s_plus_d.svg) ![_plus_ key](./images/pc/_plus_.svg) ![k key](./images/pc/k.svg)
+![splusd key](./images/pc/splusd.svg) ![plus key](./images/pc/plus.svg) ![k key](./images/pc/k.svg)
 >Requires: Baraka Barrage (*)
 
 **Big Leg:** 
@@ -72,15 +72,15 @@
 
 **Leg Chop:** 
 
-![a key](./images/pc/a.svg) ![_plus_ key](./images/pc/_plus_.svg) ![l key](./images/pc/l.svg)
+![a key](./images/pc/a.svg) ![plus key](./images/pc/plus.svg) ![l key](./images/pc/l.svg)
 
 **Knee Lunge:** 
 
-![d key](./images/pc/d.svg) ![_plus_ key](./images/pc/_plus_.svg) ![l key](./images/pc/l.svg)
+![d key](./images/pc/d.svg) ![plus key](./images/pc/plus.svg) ![l key](./images/pc/l.svg)
 
 **Side Kick:** 
 
-![s key](./images/pc/s.svg) ![_plus_ key](./images/pc/_plus_.svg) ![l key](./images/pc/l.svg)
+![s key](./images/pc/s.svg) ![plus key](./images/pc/plus.svg) ![l key](./images/pc/l.svg)
 
 
 ### Jumping Attacks
@@ -90,7 +90,7 @@
 
 **Sinister Shank:** 
 
-![s key](./images/pc/s.svg) ![_plus_ key](./images/pc/_plus_.svg) ![j key](./images/pc/j.svg)
+![s key](./images/pc/s.svg) ![plus key](./images/pc/plus.svg) ![j key](./images/pc/j.svg)
 >Requires: Baraka Barrage (*)
 
 **Sinister Slice:** 
@@ -115,49 +115,49 @@
 ### Getup Attacks
 **Fatal Strike:** 
 
-![w key](./images/pc/w.svg) ![_plus_ key](./images/pc/_plus_.svg) ![i key](./images/pc/i.svg)
+![w key](./images/pc/w.svg) ![plus key](./images/pc/plus.svg) ![i key](./images/pc/i.svg)
 
 **Karbrac Stab:** 
 
-![w key](./images/pc/w.svg) ![_plus_ key](./images/pc/_plus_.svg) ![k key](./images/pc/k.svg)
+![w key](./images/pc/w.svg) ![plus key](./images/pc/plus.svg) ![k key](./images/pc/k.svg)
 
 
 ### Flawless Block Attacks
 **Fatal Strike:** 
 
-![w key](./images/pc/w.svg) ![_plus_ key](./images/pc/_plus_.svg) ![i key](./images/pc/i.svg)
+![w key](./images/pc/w.svg) ![plus key](./images/pc/plus.svg) ![i key](./images/pc/i.svg)
 
 **Karbrac Stab:** 
 
-![w key](./images/pc/w.svg) ![_plus_ key](./images/pc/_plus_.svg) ![k key](./images/pc/k.svg)
+![w key](./images/pc/w.svg) ![plus key](./images/pc/plus.svg) ![k key](./images/pc/k.svg)
 
 
 ### Throws
 **Toward Throw:** 
 
-![space key](./images/pc/space.svg) ![_plus_ key](./images/pc/_plus_.svg) ![d key](./images/pc/d.svg) ![or key](./images/pc/or.svg)  ![d key](./images/pc/d.svg) ![_plus_ key](./images/pc/_plus_.svg) ![j key](./images/pc/j.svg) ![_plus_ key](./images/pc/_plus_.svg) ![k key](./images/pc/k.svg)
+![space key](./images/pc/space.svg) ![plus key](./images/pc/plus.svg) ![d key](./images/pc/d.svg) ![or key](./images/pc/or.svg)  ![d key](./images/pc/d.svg) ![plus key](./images/pc/plus.svg) ![j key](./images/pc/j.svg) ![plus key](./images/pc/plus.svg) ![k key](./images/pc/k.svg)
 >KRUSHING BLOW: Triggers if opponent failed THROW ESCAPE during the previous THROW.
 
 **Back Throw:** 
 
-![space key](./images/pc/space.svg) ![or key](./images/pc/or.svg) ![j key](./images/pc/j.svg) ![_plus_ key](./images/pc/_plus_.svg) ![k key](./images/pc/k.svg)
+![space key](./images/pc/space.svg) ![or key](./images/pc/or.svg) ![j key](./images/pc/j.svg) ![plus key](./images/pc/plus.svg) ![k key](./images/pc/k.svg)
 >KRUSHING BLOW: Triggers if opponent failed THROW ESCAPE during the previous THROW.
 
 
 ### Roll Escapes
 **Forward Roll Escape:** 
 
-![d key](./images/pc/d.svg) ![_plus_ key](./images/pc/_plus_.svg) ![u key](./images/pc/u.svg)
+![d key](./images/pc/d.svg) ![plus key](./images/pc/plus.svg) ![u key](./images/pc/u.svg)
 
 **Away Roll Escape:** 
 
-![a key](./images/pc/a.svg) ![_plus_ key](./images/pc/_plus_.svg) ![u key](./images/pc/u.svg)
+![a key](./images/pc/a.svg) ![plus key](./images/pc/plus.svg) ![u key](./images/pc/u.svg)
 
 
 ### Air Escape
 **(Air) Breakaway:** 
 
-![s key](./images/pc/s.svg) ![_plus_ key](./images/pc/_plus_.svg) ![o key](./images/pc/o.svg)
+![s key](./images/pc/s.svg) ![plus key](./images/pc/plus.svg) ![o key](./images/pc/o.svg)
 
 
 
@@ -181,27 +181,27 @@
 
 **Splintered:** 
 
-![i key](./images/pc/i.svg), ![j key](./images/pc/j.svg) ![_plus_ key](./images/pc/_plus_.svg) ![k key](./images/pc/k.svg)
+![i key](./images/pc/i.svg), ![j key](./images/pc/j.svg) ![plus key](./images/pc/plus.svg) ![k key](./images/pc/k.svg)
 
 **Painful Swipes:** 
 
-![d key](./images/pc/d.svg) ![_plus_ key](./images/pc/_plus_.svg) ![i key](./images/pc/i.svg), ![j key](./images/pc/j.svg)
+![d key](./images/pc/d.svg) ![plus key](./images/pc/plus.svg) ![i key](./images/pc/i.svg), ![j key](./images/pc/j.svg)
 
 **Bloody Mess:** 
 
-![d key](./images/pc/d.svg) ![_plus_ key](./images/pc/_plus_.svg) ![i key](./images/pc/i.svg), ![j key](./images/pc/j.svg), ![i key](./images/pc/i.svg)
+![d key](./images/pc/d.svg) ![plus key](./images/pc/plus.svg) ![i key](./images/pc/i.svg), ![j key](./images/pc/j.svg), ![i key](./images/pc/i.svg)
 
 **Tarkatan Rush:** 
 
-![a key](./images/pc/a.svg) ![_plus_ key](./images/pc/_plus_.svg) ![k key](./images/pc/k.svg), ![j key](./images/pc/j.svg)
+![a key](./images/pc/a.svg) ![plus key](./images/pc/plus.svg) ![k key](./images/pc/k.svg), ![j key](./images/pc/j.svg)
 
 **Cutting Loose:** 
 
-![a key](./images/pc/a.svg) ![_plus_ key](./images/pc/_plus_.svg) ![k key](./images/pc/k.svg), ![j key](./images/pc/j.svg), ![i key](./images/pc/i.svg)
+![a key](./images/pc/a.svg) ![plus key](./images/pc/plus.svg) ![k key](./images/pc/k.svg), ![j key](./images/pc/j.svg), ![i key](./images/pc/i.svg)
 
 **Doom Kicks:** 
 
-![d key](./images/pc/d.svg) ![_plus_ key](./images/pc/_plus_.svg) ![l key](./images/pc/l.svg), ![l key](./images/pc/l.svg)
+![d key](./images/pc/d.svg) ![plus key](./images/pc/plus.svg) ![l key](./images/pc/l.svg), ![l key](./images/pc/l.svg)
 >KRUSHING BLOW: Triggers if this KOMBO ATTACK is a KOUNTER or PUNISH.
 
 
@@ -314,7 +314,7 @@
 ### Fatal Blow
 **Skewered:** 
 
-![u key](./images/pc/u.svg) ![_plus_ key](./images/pc/_plus_.svg) ![o key](./images/pc/o.svg)
+![u key](./images/pc/u.svg) ![plus key](./images/pc/plus.svg) ![o key](./images/pc/o.svg)
 
 
 
@@ -336,7 +336,7 @@
 
 **Mercy (Mid):** 
 
-![u key](./images/pc/u.svg) ![_plus_ key](./images/pc/_plus_.svg) ![s key](./images/pc/s.svg) ![s key](./images/pc/s.svg) ![s key](./images/pc/s.svg)
+![u key](./images/pc/u.svg) ![plus key](./images/pc/plus.svg) ![s key](./images/pc/s.svg) ![s key](./images/pc/s.svg) ![s key](./images/pc/s.svg)
 
 
 ### Friendship
@@ -349,11 +349,11 @@
 ### Brutalities
 **The Klassic:** 
 
-![s key](./images/pc/s.svg) ![_plus_ key](./images/pc/_plus_.svg) ![i key](./images/pc/i.svg)
+![s key](./images/pc/s.svg) ![plus key](./images/pc/plus.svg) ![i key](./images/pc/i.svg)
 >DO NOT block an attack during the final round.<br>&bull; Must hold [T].<br>&bull; Final hit must come from an Uppercut [D]+[T].
 
 **Nom Nom:** 
 
-![d key](./images/pc/d.svg) ![_plus_ key](./images/pc/_plus_.svg) ![space key](./images/pc/space.svg)
+![d key](./images/pc/d.svg) ![plus key](./images/pc/plus.svg) ![space key](./images/pc/space.svg)
 >Press [d],[d],[d] during Toward Throw; Final hit must come from Toward Throw.
 
